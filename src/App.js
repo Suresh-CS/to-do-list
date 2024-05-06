@@ -52,13 +52,10 @@ function App(props) {
                 />)
               })
             }
-
-
           </ul>
         </div>
       </div>
     </>
   );
 }
-
 export default App;
